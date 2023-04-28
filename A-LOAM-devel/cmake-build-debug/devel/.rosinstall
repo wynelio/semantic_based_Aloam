@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wayne/catkin_slam/src/A-LOAM-devel/cmake-build-debug/devel/setup.sh
